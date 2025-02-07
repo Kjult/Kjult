@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kjeldritmeester" alt="kjeldritmeester" /></a> </p>
 
-- 🔭 I’m currently working on [Project I-Lab](https://github.com/RobinVanOudheusden/I-Lab)
+- 🔭 I’m currently working on: [Project I-Lab](https://github.com/RobinVanOudheusden/I-Lab)
 
-- 🌱 I’m currently learning **Laravel, Tailwind css**
+- 🌱 I’m currently learning: **Laravel, Tailwind css**
 
-- 💬 Ask me about **Just Anything**
+- 💬 Ask me about: **Just Anything**
 
-- 📫 How to reach me **99071969@mydavinci.nl**
+- 📫 How to reach me: **99071969@mydavinci.nl**
 
-- ⚡ Fun fact **I am dumb**
+- ⚡ Fun fact: **I am dumb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
