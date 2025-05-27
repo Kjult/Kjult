@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kjeld</h1>
 <h3 align="center">A Student that likes to code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kjeldritmeester&label=Profile%20views&color=0e75b6&style=flat" alt="kjeldritmeester" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kjult&label=Profile%20views&color=0e75b6&style=flat" alt="Kjult" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kjeldritmeester" alt="kjeldritmeester" /></a> </p>
 
