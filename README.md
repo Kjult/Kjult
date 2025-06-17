@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kjeldritmeester" alt="kjeldritmeester" /></a> </p>
 
-- 🔭 I’m currently working on: [Project I-Lab](https://github.com/RobinVanOudheusden/I-Lab)
+- 🔭 I’m currently working on: [Project We-pair](https://github.com/Kjult/We-Pair)
 
 - 🌱 I’m currently learning: **Laravel, Tailwind css**
 
